@@ -4,4 +4,5 @@ This repository contains 3 python scripts. These train neural networks at an ori
 
 If running this code, the directory paths will have to be changed. Also, you should check that each dataframe in the R script is associated with the correct CSV dataset. 
 
-This is part of a study on collective learning undertaken by Joe Morford, Patrick Lewin, Dora Biro, Tim Guilford, Oliver Padget and Julien Collet. 
+This is part of a study on collective learning undertaken by Joe Morford, Patrick Lewin, Dora Biro, Tim Guilford, Oliver Padget and Julien Collet. The publication can be found here: https://doi.org/10.1098/rstb.2022.0060
+
